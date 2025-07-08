@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sulabhsaluja/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sulabhsaluja/leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/sulabhsaluja/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/sulabhsaluja/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
