@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/sulabhsaluja/leetcode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/sulabhsaluja/leetcode/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/sulabhsaluja/leetcode/tree/master/0851-goat-latin) |
+| [3379-score-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
