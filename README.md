@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sulabhsaluja/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/sulabhsaluja/leetcode/tree/master/0520-detect-capital) |
+| [0782-jewels-and-stones](https://github.com/sulabhsaluja/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sulabhsaluja/leetcode/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/sulabhsaluja/leetcode/tree/master/0851-goat-latin) |
 | [3194-find-words-containing-character](https://github.com/sulabhsaluja/leetcode/tree/master/3194-find-words-containing-character) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sulabhsaluja/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sulabhsaluja/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/sulabhsaluja/leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
