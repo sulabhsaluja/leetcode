@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sulabhsaluja/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sulabhsaluja/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/sulabhsaluja/leetcode/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/sulabhsaluja/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sulabhsaluja/leetcode/tree/master/0812-rotate-string) |
