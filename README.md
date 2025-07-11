@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sulabhsaluja/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/sulabhsaluja/leetcode/tree/master/0724-find-pivot-index) |
+| [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/sulabhsaluja/leetcode/tree/master/2058-concatenation-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sulabhsaluja/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/sulabhsaluja/leetcode/tree/master/3194-find-words-containing-character) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sulabhsaluja/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/sulabhsaluja/leetcode/tree/master/0782-jewels-and-stones) |
+| [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sulabhsaluja/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
+| [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sulabhsaluja/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sulabhsaluja/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sulabhsaluja/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sulabhsaluja/leetcode/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
