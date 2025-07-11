@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sulabhsaluja/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sulabhsaluja/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sulabhsaluja/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sulabhsaluja/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sulabhsaluja/leetcode/tree/master/0217-contains-duplicate) |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sulabhsaluja/leetcode/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sulabhsaluja/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sulabhsaluja/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
