@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sulabhsaluja/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2556-convert-the-temperature](https://github.com/sulabhsaluja/leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sulabhsaluja/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sulabhsaluja/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sulabhsaluja/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
