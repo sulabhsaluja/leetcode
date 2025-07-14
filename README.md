@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sulabhsaluja/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/sulabhsaluja/leetcode/tree/master/0724-find-pivot-index) |
+| [1137-height-checker](https://github.com/sulabhsaluja/leetcode/tree/master/1137-height-checker) |
 | [1580-shuffle-the-array](https://github.com/sulabhsaluja/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/sulabhsaluja/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sulabhsaluja/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sulabhsaluja/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
+| [1137-height-checker](https://github.com/sulabhsaluja/leetcode/tree/master/1137-height-checker) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/sulabhsaluja/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
