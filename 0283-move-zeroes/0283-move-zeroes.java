@@ -1,19 +1,16 @@
 class Solution {
+    public static void swapArr(int[] arr, int i, int j){
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
     public void moveZeroes(int[] nums) {
-        int i = 0;
-
-        // Move all non-zero elements to the front
-        for (int j = 0; j < nums.length; j++) {
-            if (nums[j] != 0) {
-                nums[i] = nums[j];
-                i++;
+        int left  = 0;
+        for(int right = 0 ; right < nums.length ; right++){
+            if(nums[right]!=0){
+                swapArr(nums,left,right);
+                left++;
             }
-        }
-
-        // Fill remaining elements with 0
-        while (i < nums.length) {
-            nums[i] = 0;
-            i++;
         }
     }
 }
