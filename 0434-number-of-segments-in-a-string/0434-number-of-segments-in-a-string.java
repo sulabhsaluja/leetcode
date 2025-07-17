@@ -1,9 +1,8 @@
 class Solution {
     public int countSegments(String s) {
         int cnt = 0;
-        String[] words = s.split(" ");
-        for(String word : words){
-            if(!word.isEmpty()) cnt++;
+        for(int i = 0 ; i < s.length() ; i++){
+            if((i == 0 || s.charAt(i-1) == ' ' ) && s.charAt(i) != ' ') cnt++;
         }
         return cnt;
     }
