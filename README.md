@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sulabhsaluja/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sulabhsaluja/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sulabhsaluja/leetcode/tree/master/0344-reverse-string) |
+| [0556-next-greater-element-iii](https://github.com/sulabhsaluja/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0941-sort-array-by-parity](https://github.com/sulabhsaluja/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/sulabhsaluja/leetcode/tree/master/0520-detect-capital) |
+| [0556-next-greater-element-iii](https://github.com/sulabhsaluja/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0782-jewels-and-stones](https://github.com/sulabhsaluja/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sulabhsaluja/leetcode/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/sulabhsaluja/leetcode/tree/master/0851-goat-latin) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sulabhsaluja/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
+| [0556-next-greater-element-iii](https://github.com/sulabhsaluja/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sulabhsaluja/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sulabhsaluja/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
