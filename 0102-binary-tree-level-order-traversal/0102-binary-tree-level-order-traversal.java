@@ -1,37 +1,41 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
-        if (root == null) return res;
 
         Queue<TreeNode> q = new LinkedList<>();
-        List<Integer> li = new ArrayList<>();
-        
-        q.offer(root);
-        q.offer(null); // Marker for end of level
-        
-        while (!q.isEmpty()) {
-            TreeNode removedNode = q.poll();
 
-            if (removedNode == null) {
-                res.add(new ArrayList<>(li)); // Add current level to result
-                li.clear(); // Clear the list for the next level
-                
-                if (!q.isEmpty()) {
-                    q.offer(null); // Mark the end of the next level
-                }
-            } else {
-                li.add(removedNode.val); // Add current node's value to the level list
-                
-                // Add children to the queue
-                if (removedNode.left != null) {
-                    q.offer(removedNode.left);
-                }
-                if (removedNode.right != null) {
-                    q.offer(removedNode.right);
-                }
+        if(root == null) return res;
+
+        q.offer(root);
+        while(!q.isEmpty()){
+            int size = q.size();
+
+            List<Integer> li = new ArrayList<>();
+            for(int i = 0 ; i < size ; i++){
+                TreeNode removedNode = q.poll();
+
+                li.add(removedNode.val);
+
+                if(removedNode.left != null) q.offer(removedNode.left);
+                if(removedNode.right != null) q.offer(removedNode.right);
             }
+            res.add(li);
         }
-        
         return res;
     }
 }
