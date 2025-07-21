@@ -5,7 +5,7 @@ class Solution {
         for(int num : nums){
             if(num == 1){
                 currCount++;
-                maxCount = Math.max(currCount,maxCount);
+                if(currCount > maxCount) maxCount = currCount;
             }
             else currCount = 0;
         }
