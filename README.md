@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sulabhsaluja/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sulabhsaluja/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sulabhsaluja/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sulabhsaluja/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sulabhsaluja/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sulabhsaluja/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/sulabhsaluja/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sulabhsaluja/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/sulabhsaluja/leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sulabhsaluja/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sulabhsaluja/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sulabhsaluja/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sulabhsaluja/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sulabhsaluja/leetcode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/sulabhsaluja/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/1019-squares-of-a-sorted-array) |
