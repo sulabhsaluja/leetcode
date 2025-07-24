@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/sulabhsaluja/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sulabhsaluja/leetcode/tree/master/2058-concatenation-of-array) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sulabhsaluja/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sulabhsaluja/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/sulabhsaluja/leetcode/tree/master/3194-find-words-containing-character) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sulabhsaluja/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sulabhsaluja/leetcode/tree/master/1137-height-checker) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting Sort
 |  |
 | ------- |
