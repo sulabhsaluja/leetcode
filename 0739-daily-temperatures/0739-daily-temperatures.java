@@ -6,8 +6,8 @@ class Solution {
         for(int i = 0 ; i < n ; i++){
             while(!st.isEmpty() && t[st.peek()] < t[i]){
                 int pop = st.pop(); //pop will return the smaller element's index whereas 'i' is the current element's index
-                int diff = i - pop;
-                res[pop] = diff; //smaller index value is now the difference
+                // int diff = i - pop;
+                res[pop] = i - pop; //smaller index value is now the difference
             }
             st.push(i);
         }
