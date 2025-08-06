@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sulabhsaluja/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sulabhsaluja/leetcode/tree/master/1137-height-checker) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sulabhsaluja/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/sulabhsaluja/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/sulabhsaluja/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -241,9 +242,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/sulabhsaluja/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sulabhsaluja/leetcode/tree/master/0883-car-fleet) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sulabhsaluja/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sulabhsaluja/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sulabhsaluja/leetcode/tree/master/0883-car-fleet) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sulabhsaluja/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
