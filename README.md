@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sulabhsaluja/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sulabhsaluja/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sulabhsaluja/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sulabhsaluja/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/sulabhsaluja/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sulabhsaluja/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sulabhsaluja/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sulabhsaluja/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sulabhsaluja/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sulabhsaluja/leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sulabhsaluja/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/sulabhsaluja/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/sulabhsaluja/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sulabhsaluja/leetcode/tree/master/0263-ugly-number) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sulabhsaluja/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/sulabhsaluja/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sulabhsaluja/leetcode/tree/master/0883-car-fleet) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sulabhsaluja/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
