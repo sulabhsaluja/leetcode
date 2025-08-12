@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sulabhsaluja/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sulabhsaluja/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sulabhsaluja/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/sulabhsaluja/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sulabhsaluja/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sulabhsaluja/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sulabhsaluja/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sulabhsaluja/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/sulabhsaluja/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sulabhsaluja/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
 |  |
@@ -239,12 +241,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sulabhsaluja/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sulabhsaluja/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sulabhsaluja/leetcode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sulabhsaluja/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/sulabhsaluja/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/sulabhsaluja/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sulabhsaluja/leetcode/tree/master/0883-car-fleet) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sulabhsaluja/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
