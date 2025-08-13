@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/sulabhsaluja/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/sulabhsaluja/leetcode/tree/master/3396-valid-word) |
+| [3412-permutation-difference-between-two-strings](https://github.com/sulabhsaluja/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3811-reverse-degree-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sulabhsaluja/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/sulabhsaluja/leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
+| [3412-permutation-difference-between-two-strings](https://github.com/sulabhsaluja/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
 | ------- |
