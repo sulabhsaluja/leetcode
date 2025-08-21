@@ -1,31 +1,25 @@
 class Solution {
     public String mostCommonWord(String paragraph, String[] banned) {
-        // if(banned.length == 0) return paragraph;
-        HashMap<String, Integer> map = new HashMap<>();
-        HashSet<String> bannedWords = new HashSet<>();
-        for(String ban : banned){
-            bannedWords.add(ban.toLowerCase());
+        // Normalize the paragraph
+        paragraph = paragraph.toLowerCase().replaceAll("[^a-z]", " ");
+
+        // Create set for banned words
+        Set<String> bannedSet = new HashSet<>();
+        for (String word : banned) {
+            bannedSet.add(word.toLowerCase());
         }
 
-        paragraph = paragraph.toLowerCase().replaceAll("[^a-z ]", " ");
-        String[] words = paragraph.split("\\s+");
-        for(int i = 0 ; i < words.length ; i++){
-            String curr = words[i];
-            if(bannedWords.contains(curr)) continue;
-
-            else if(map.containsKey(curr)){
-                int currVal = map.get(curr);
-                map.put(curr, currVal + 1);
-            }
-
-            else map.put(curr, 1);
+        // Split words and count frequencies
+        Map<String, Integer> freqMap = new HashMap<>();
+        for (String word : paragraph.split("\\s+")) {
+            if (word.isEmpty() || bannedSet.contains(word)) continue;
+            freqMap.put(word, freqMap.getOrDefault(word, 0) + 1);
         }
 
-
-         String result = "";
+        // Find the most frequent word
+        String result = "";
         int max = 0;
-
-        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+        for (Map.Entry<String, Integer> entry : freqMap.entrySet()) {
             if (entry.getValue() > max) {
                 max = entry.getValue();
                 result = entry.getKey();
@@ -33,6 +27,5 @@ class Solution {
         }
 
         return result;
-
     }
 }
