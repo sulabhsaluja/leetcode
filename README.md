@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/sulabhsaluja/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0941-sort-array-by-parity](https://github.com/sulabhsaluja/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/sulabhsaluja/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sulabhsaluja/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/sulabhsaluja/leetcode/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/sulabhsaluja/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/sulabhsaluja/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/sulabhsaluja/leetcode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sulabhsaluja/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/sulabhsaluja/leetcode/tree/master/1448-maximum-69-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/sulabhsaluja/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
