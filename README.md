@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sulabhsaluja/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0556-next-greater-element-iii](https://github.com/sulabhsaluja/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0941-sort-array-by-parity](https://github.com/sulabhsaluja/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/sulabhsaluja/leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/sulabhsaluja/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/sulabhsaluja/leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/sulabhsaluja/leetcode/tree/master/0837-most-common-word) |
 | [0851-goat-latin](https://github.com/sulabhsaluja/leetcode/tree/master/0851-goat-latin) |
+| [0979-di-string-match](https://github.com/sulabhsaluja/leetcode/tree/master/0979-di-string-match) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sulabhsaluja/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/sulabhsaluja/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3379-score-of-a-string) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/sulabhsaluja/leetcode/tree/master/0837-most-common-word) |
 | [0883-car-fleet](https://github.com/sulabhsaluja/leetcode/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/sulabhsaluja/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/sulabhsaluja/leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sulabhsaluja/leetcode/tree/master/1137-height-checker) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sulabhsaluja/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0979-di-string-match](https://github.com/sulabhsaluja/leetcode/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/sulabhsaluja/leetcode/tree/master/1448-maximum-69-number) |
 ## Brainteaser
 |  |
