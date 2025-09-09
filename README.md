@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/sulabhsaluja/leetcode/tree/master/2058-concatenation-of-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sulabhsaluja/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sulabhsaluja/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/sulabhsaluja/leetcode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sulabhsaluja/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/sulabhsaluja/leetcode/tree/master/2481-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
