@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sulabhsaluja/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sulabhsaluja/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sulabhsaluja/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sulabhsaluja/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sulabhsaluja/leetcode/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sulabhsaluja/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sulabhsaluja/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/sulabhsaluja/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/sulabhsaluja/leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/sulabhsaluja/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sulabhsaluja/leetcode/tree/master/2058-concatenation-of-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sulabhsaluja/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/sulabhsaluja/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/sulabhsaluja/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sulabhsaluja/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sulabhsaluja/leetcode/tree/master/0883-car-fleet) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sulabhsaluja/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
