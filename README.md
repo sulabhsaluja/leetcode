@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sulabhsaluja/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sulabhsaluja/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sulabhsaluja/leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/sulabhsaluja/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/sulabhsaluja/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/sulabhsaluja/leetcode/tree/master/0520-detect-capital) |
@@ -301,11 +302,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sulabhsaluja/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sulabhsaluja/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sulabhsaluja/leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/sulabhsaluja/leetcode/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sulabhsaluja/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/sulabhsaluja/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sulabhsaluja/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/sulabhsaluja/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sulabhsaluja/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sulabhsaluja/leetcode/tree/master/0883-car-fleet) |
