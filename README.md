@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/sulabhsaluja/leetcode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/sulabhsaluja/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3462-vowels-game-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/sulabhsaluja/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sulabhsaluja/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sulabhsaluja/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3462-vowels-game-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sulabhsaluja/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
@@ -329,8 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/sulabhsaluja/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
