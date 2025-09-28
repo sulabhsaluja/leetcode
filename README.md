@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/sulabhsaluja/leetcode/tree/master/0837-most-common-word) |
 | [0851-goat-latin](https://github.com/sulabhsaluja/leetcode/tree/master/0851-goat-latin) |
 | [0979-di-string-match](https://github.com/sulabhsaluja/leetcode/tree/master/0979-di-string-match) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sulabhsaluja/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sulabhsaluja/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/sulabhsaluja/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3379-score-of-a-string) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sulabhsaluja/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sulabhsaluja/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sulabhsaluja/leetcode/tree/master/0883-car-fleet) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sulabhsaluja/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sulabhsaluja/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
