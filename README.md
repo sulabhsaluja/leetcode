@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/sulabhsaluja/leetcode/tree/master/0979-di-string-match) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sulabhsaluja/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sulabhsaluja/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2886-faulty-keyboard](https://github.com/sulabhsaluja/leetcode/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/sulabhsaluja/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/sulabhsaluja/leetcode/tree/master/3396-valid-word) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sulabhsaluja/leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/sulabhsaluja/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sulabhsaluja/leetcode/tree/master/2058-concatenation-of-array) |
+| [2886-faulty-keyboard](https://github.com/sulabhsaluja/leetcode/tree/master/2886-faulty-keyboard) |
 | [3811-reverse-degree-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
