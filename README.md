@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sulabhsaluja/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/sulabhsaluja/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sulabhsaluja/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/sulabhsaluja/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/sulabhsaluja/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/sulabhsaluja/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/sulabhsaluja/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sulabhsaluja/leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/sulabhsaluja/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sulabhsaluja/leetcode/tree/master/2058-concatenation-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/sulabhsaluja/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/sulabhsaluja/leetcode/tree/master/2886-faulty-keyboard) |
 | [3811-reverse-degree-of-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
