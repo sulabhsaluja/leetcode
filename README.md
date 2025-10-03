@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/sulabhsaluja/leetcode/tree/master/2058-concatenation-of-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sulabhsaluja/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/sulabhsaluja/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sulabhsaluja/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sulabhsaluja/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sulabhsaluja/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sulabhsaluja/leetcode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sulabhsaluja/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/sulabhsaluja/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Sorting
 |  |
 | ------- |
