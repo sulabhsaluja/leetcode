@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sulabhsaluja/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/sulabhsaluja/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sulabhsaluja/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sulabhsaluja/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/sulabhsaluja/leetcode/tree/master/0682-baseball-game) |
@@ -352,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sulabhsaluja/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sulabhsaluja/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sulabhsaluja/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
