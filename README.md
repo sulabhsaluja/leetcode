@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sulabhsaluja/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sulabhsaluja/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sulabhsaluja/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sulabhsaluja/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sulabhsaluja/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/sulabhsaluja/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/sulabhsaluja/leetcode/tree/master/0202-happy-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sulabhsaluja/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sulabhsaluja/leetcode/tree/master/0070-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sulabhsaluja/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sulabhsaluja/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
