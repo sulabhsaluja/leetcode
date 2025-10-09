@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/sulabhsaluja/leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/sulabhsaluja/leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sulabhsaluja/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/sulabhsaluja/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/sulabhsaluja/leetcode/tree/master/2058-concatenation-of-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sulabhsaluja/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sulabhsaluja/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sulabhsaluja/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sulabhsaluja/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sulabhsaluja/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sulabhsaluja/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sulabhsaluja/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sulabhsaluja/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sulabhsaluja/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/sulabhsaluja/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sulabhsaluja/leetcode/tree/master/1217-relative-sort-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sulabhsaluja/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sulabhsaluja/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
 | ------- |
