@@ -12,7 +12,7 @@ public class Solution {
         return res;
     }
     
-    private int findMinIndex(int spell, int[] potions, long success) {
+    public int findMinIndex(int spell, int[] potions, long success) {
         int left = 0, right = potions.length;
         
         while (left < right) {
