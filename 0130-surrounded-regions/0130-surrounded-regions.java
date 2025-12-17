@@ -1,32 +1,31 @@
 class Solution {
-    public void solve(char[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
+    public void solve(char[][] board) {
+        int n = board.length;
+        int m = board[0].length;
         for(int i = 0 ; i < n ; i++){
-            if(grid[i][0] == 'O') dfs(grid, i, 0);
-            if(grid[i][m - 1] == 'O') dfs(grid, i, m-1);
+            if(board[i][0] == 'O') dfs(board, i, 0);
+            if(board[i][m - 1] == 'O') dfs(board, i, m-1);
         }
         for(int j = 0 ; j < m ; j++){
-            if(grid[0][j] == 'O') dfs(grid, 0, j);
-            if(grid[n - 1][j] == 'O') dfs(grid, n - 1, j);
+            if(board[0][j] == 'O') dfs(board, 0, j);
+            if(board[n-1][j] == 'O') dfs(board, n-1, j);
         }
 
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < m ; j++){
-                if(grid[i][j] == 'O') grid[i][j] = 'X';
-                else if(grid[i][j] == '#') grid[i][j] = 'O';
+                if(board[i][j] == '#') board[i][j] = 'O';
+                else board[i][j] = 'X';
             }
         }
+        
     }
-    public void dfs(char[][] grid, int i, int j){
-        if(i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] != 'O') return;
+    public static void dfs(char[][] board, int i, int j){
+        if(i < 0 || i >= board.length || j < 0 || j >= board[0].length || board[i][j] != 'O') return;
+        board[i][j] = '#';
 
-        grid[i][j] = '#';
-
-        dfs(grid, i-1, j);
-        dfs(grid, i, j-1);
-        dfs(grid, i+1, j);
-        dfs(grid, i, j+1);
-
+        dfs(board, i - 1, j);
+        dfs(board, i + 1, j);
+        dfs(board, i, j - 1);
+        dfs(board, i, j + 1);
     }
 }
