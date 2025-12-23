@@ -1,12 +1,17 @@
 class Solution {
     public int climbStairs(int n) {
-        if (n <= 3) return n;
-        int a = 2, b = 3;
-        for (int i = 4; i <= n; i++) {
-            int c = a + b;
-            a = b;
-            b = c;
-        }
-        return b;
+        int[] dp = new int[n + 1];
+        Arrays.fill(dp, -1);
+        return inrec(n, dp);
+    }
+    public int inrec(int n, int[] dp){
+        if(n == 0) return 1;
+        if(n < 0) return 0;
+        if(dp[n] != -1) return dp[n];
+
+        int one_step = inrec(n - 1, dp);
+        int two_step = inrec(n - 2, dp);
+        dp[n] = one_step + two_step;
+        return one_step + two_step;
     }
 }
