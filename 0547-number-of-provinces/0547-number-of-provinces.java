@@ -1,38 +1,33 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-
+        List<List<Integer>> adj = new ArrayList<>();
         int n = isConnected.length;
-
-        // Build adjacency list
-        List<Integer>[] adj = new ArrayList[n];
-        for (int i = 0; i < n; i++) {
-            adj[i] = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
-                if (isConnected[i][j] == 1 && i != j) {
-                    adj[i].add(j);
+        for(int i = 0 ; i < n ; i++){
+            adj.add(new ArrayList<>());
+        }
+        for(int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j < n ; j++){
+                if(i != j && isConnected[i][j] == 1){
+                    adj.get(i).add(j);
+                    adj.get(j).add(i);
                 }
             }
         }
-
         boolean[] vis = new boolean[n];
         int cnt = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
+        for(int i = 0 ; i < n ; i++){
+            if(!vis[i]){
                 cnt++;
-                dfs(i, vis, adj);
+                dfs(i, adj, vis);
             }
         }
-
         return cnt;
     }
-
-    private void dfs(int u, boolean[] vis, List<Integer>[] adj) {
-        vis[u] = true;
-
-        for (int nbr : adj[u]) {
-            if (!vis[nbr]) {
-                dfs(nbr, vis, adj);
+    public static void dfs(int i, List<List<Integer>> adj, boolean[] vis){
+        vis[i] = true;
+        for(int nbr : adj.get(i)){
+            if(!vis[nbr]){
+                dfs(nbr, adj, vis);
             }
         }
     }
