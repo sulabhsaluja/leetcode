@@ -8,7 +8,6 @@ class Solution {
         int maxLen = 0;
 
         for (int num : set) {
-            // Only start counting if it's the beginning of a sequence
             if (!set.contains(num - 1)) {
                 int currentNum = num;
                 int count = 1;
