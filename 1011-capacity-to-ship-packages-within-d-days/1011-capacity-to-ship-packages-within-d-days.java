@@ -2,32 +2,32 @@ class Solution {
     public int shipWithinDays(int[] weights, int days) {
         int low = 0;
         int high = 0;
-        for(int weight : weights){
-            low = Math.max(low, weight);
-            high += weight;
-        }
         int ans = 0;
+        for(int w : weights){
+            low = Math.max(low, w);
+            high += w;
+        }
         while(low <= high){
             int mid = low + (high - low) / 2;
-            if(func(weights, mid) <= days){
-                high = mid - 1;
+
+            int d = func(weights, mid);
+            if(d <= days){
                 ans = mid;
-            }else{
-                low = mid + 1;
+                high = mid - 1;
             }
+            else low = mid + 1;
         }
         return ans;
     }
-    public static int func(int[] weights, int capacity){
+    public static int func(int[] arr, int capacity){
         int days = 1;
         int load = 0;
-        for(int i = 0 ; i < weights.length ; i++){
-            if(load + weights[i] > capacity){
+        for(int i = 0 ; i < arr.length ; i++){
+            if(arr[i] + load > capacity){
                 days++;
-                load = weights[i];
-            }else{
-                load += weights[i];
-            }
+                load = arr[i];
+            }else load += arr[i];
+            
         }
         return days;
     }
