@@ -1,28 +1,28 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
-        permuteHelper(nums, 0, res);
-        return res;
-    }
+        int n = nums.length;
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> curr = new ArrayList<>();
+        boolean[] used = new boolean[n];
 
-    public void permuteHelper(int[] nums, int i, List<List<Integer>> res) {
-        if (i == nums.length) {
-            List<Integer> permutation = new ArrayList<>();
-            for (int num : nums) permutation.add(num);
-            res.add(permutation);
+        solve(nums, curr, ans, used);
+        return ans;
+    }
+    public void solve(int[] nums, List<Integer> curr, List<List<Integer>> ans, boolean[] used){
+        int n = nums.length;
+        if(curr.size() == n){
+            ans.add(new ArrayList<>(curr));
             return;
         }
 
-        for (int j = i; j < nums.length; j++) {
-            swap(nums, i, j);
-            permuteHelper(nums, i + 1, res);
-            swap(nums, i, j);
-        }
-    }
+        for(int i = 0 ; i < n ; i++){
+            if(used[i] == true) continue;
 
-    public void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
+            curr.add(nums[i]);
+            used[i] = true;
+            solve(nums, curr, ans, used);
+            curr.remove(curr.size() - 1);
+            used[i] = false;
+        }
     }
 }
